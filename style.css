@@ -1,0 +1,48 @@
+#title{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 60px;
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#top{
+    background: #56CCF2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(-45deg, #2F80ED, #56CCF2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(-45deg, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 30vh;
+}
+
+.bubble{
+    height: 170px;
+    width: 170px;
+    cursor: pointer;
+}
+
+.bubble-text{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#main{
+    height: 70vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
