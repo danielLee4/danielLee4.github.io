@@ -1,6 +1,8 @@
 {
     "name": "DL4194's Source",
     "subtitle": "Games and fun apps.",
+    "identifier": "com.dl4194.altstore",
+    "sourceURL": "https://daniellee4.github.io/altstore/apps.json",
     "description": "Apps made by DL4194, including fun games and useful tools.",
     "iconURL": "https://daniellee4.github.io/altstore/appicons/flapquest.png",
     "website": "https://daniellee4.github.io/",
