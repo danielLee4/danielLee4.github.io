@@ -1,0 +1,55 @@
+{
+    "name": "DL4194's Source",
+    "subtitle": "Games and fun apps.",
+    "description": "Apps made by DL4194, including fun games and useful tools.",
+    "iconURL": "https://daniellee4.github.io/altstore/appicons/flapquest.png",
+    "website": "https://daniellee4.github.io/",
+    "tintColor": "#06bd36",
+    "featuredApps": [
+        "com.dl4194.walappy"
+    ],
+    "apps": [
+        {
+            "name": "FlapQuest",
+            "bundleIdentifier": "com.dl4194.walappy",
+            "developerName": "Daniel Lee",
+            "subtitle": "Simple bird game.",
+            "localizedDescription": "Tap the screen to fly, buy items and birds, coins, and more!",
+            "iconURL": "https://daniellee4.github.io/altstore/appicons/flapquest.png",
+            "tintColor": "#06bd36",
+            "category": "games",
+            "screenshots": [
+                {
+                    "imageURL": "https://daniellee4.github.io/altstore/screenshots/flapquest/screenshot1.png"
+                },
+                {
+                    "imageURL": "https://daniellee4.github.io/altstore/screenshots/flapquest/screenshot2.png"
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2024-06-11",
+                    "downloadURL": "https://daniellee4.github.io/altstore/ipas/flapquest.ipa",
+                    "minOSVersion": "12.0",
+                    "localizedDescription": "Initial release."
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "FlapQuest Released",
+            "identifier": "new_game_flapquest",
+            "caption": "FlapQuest is now available in AltStore and SideStore!",
+            "date": "2024-06-11",
+            "tintColor": "#06bd36",
+            "imageURL": "https://example.com/new_feature_image.png",
+            "notify": true
+        }
+    ]
+}
