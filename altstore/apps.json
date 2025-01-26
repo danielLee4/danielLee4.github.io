@@ -5,7 +5,6 @@
     "sourceURL": "https://daniellee4.github.io/altstore/apps.json",
     "description": "Apps made by DL4194, including fun games and useful tools.",
     "iconURL": "https://daniellee4.github.io/altstore/appicons/flapquest.png",
-    "website": "https://daniellee4.github.io/",
     "tintColor": "#06bd36",
     "featuredApps": [
         "com.dl4194.walappy"
@@ -22,19 +21,26 @@
             "category": "games",
             "screenshots": [
                 {
-                    "imageURL": "https://daniellee4.github.io/altstore/screenshots/flapquest/screenshot1.png"
+                    "imageURL": "https://daniellee4.github.io/altstore/screenshots/flapquest/screenshot1.png",
+                    "height": 1756,
+                    "width": 926
                 },
                 {
-                    "imageURL": "https://daniellee4.github.io/altstore/screenshots/flapquest/screenshot2.png"
+                    "imageURL": "https://daniellee4.github.io/altstore/screenshots/flapquest/screenshot2.png",
+                    "height": 1746,
+                    "width": 924
                 }
             ],
             "versions": [
                 {
                     "version": "1.0",
+                    "buildVersion": "0",
+                    "marketingVersion": "1.0",
                     "date": "2024-06-11",
                     "downloadURL": "https://daniellee4.github.io/altstore/ipas/flapquest.ipa",
                     "minOSVersion": "12.0",
-                    "localizedDescription": "Initial release."
+                    "localizedDescription": "Initial release.",
+                    "size": 14348
                 }
             ],
             "appPermissions": {
