@@ -1,13 +1,14 @@
 {
-    "name": "DL4194's Source",
+    "name": "dl4194's Source",
     "subtitle": "Games and fun apps.",
     "identifier": "com.dl4194.altstore",
     "sourceURL": "https://daniellee4.github.io/altstore/apps.json",
-    "description": "Apps made by DL4194, including fun games and useful tools.",
-    "iconURL": "https://daniellee4.github.io/altstore/appicons/flapquest.png",
-    "tintColor": "#06bd36",
+    "description": "dl4194's mobile games!",
+    "iconURL": "https://daniellee4.github.io/altstore/appicons/kimchirun.png",
+    "tintColor": "#5090b9",
     "featuredApps": [
-        "com.dl4194.kimchirun"
+        "com.dl4194.kimchirun",
+        "com.dl4194.walappy"
     ],
     "apps": [
         {
@@ -71,6 +72,16 @@
             ],
             "versions": [
                 {
+                    "version": "1.1",
+                    "buildVersion": "1",
+                    "marketingVersion": "1.1",
+                    "date": "2025-01-30",
+                    "downloadURL": "https://daniellee4.github.io/altstore/ipas/kimchirun-1.1.ipa",
+                    "minOSVersion": "13.0",
+                    "localizedDescription": "Fixed clipping bugs and added Halmoni army",
+                    "size": 41278
+                },
+                {
                     "version": "1.0",
                     "buildVersion": "0",
                     "marketingVersion": "1.0",
@@ -102,6 +113,14 @@
             "title": "Kimchi-Run Released",
             "identifier": "new_game_kimchirun",
             "caption": "Kimchi-Run is now available in AltStore and SideStore!",
+            "date": "2025-01-30",
+            "tintColor": "#5090b9",
+            "notify": false
+        },
+        {
+            "title": "Kimchi-Run Update",
+            "identifier": "new_game_kimchirun",
+            "caption": "Kimchi-Run v1.1 is now available in AltStore and SideStore!",
             "date": "2025-01-30",
             "tintColor": "#5090b9",
             "notify": false
