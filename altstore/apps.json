@@ -47,6 +47,44 @@
                 "entitlements": [],
                 "privacy": {}
             }
+        },
+        {
+            "name": "kimchirun",
+            "bundleIdentifier": "com.dl4194.kimchirun",
+            "developerName": "Daniel Lee",
+            "subtitle": "Kimchi Run!!!",
+            "localizedDescription": "Kimchi Run!!!",
+            "iconURL": "https://daniellee4.github.io/altstore/appicons/kimchirun.png",
+            "tintColor": "#5090b9",
+            "category": "games",
+            "screenshots": [
+                {
+                    "imageURL": "https://daniellee4.github.io/altstore/screenshots/kimchirun/screenshot1.png",
+                    "height": 3420,
+                    "width": 2136
+                },
+                {
+                    "imageURL": "https://daniellee4.github.io/altstore/screenshots/kimchirun/screenshot2.png",
+                    "height": 3420,
+                    "width": 2136
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "0",
+                    "marketingVersion": "1.0",
+                    "date": "2025-01-30",
+                    "downloadURL": "https://daniellee4.github.io/altstore/ipas/kimchirun.ipa",
+                    "minOSVersion": "13.0",
+                    "localizedDescription": "Initial release.",
+                    "size": 41279
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {}
+            }
         }
     ],
     "news": [
@@ -56,8 +94,15 @@
             "caption": "FlapQuest is now available in AltStore and SideStore!",
             "date": "2024-06-11",
             "tintColor": "#06bd36",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true
+            "notify": false
+        },
+        {
+            "title": "Kimchi-Run Released",
+            "identifier": "new_game_kimchirun",
+            "caption": "Kimchi-Run is now available in AltStore and SideStore!",
+            "date": "2025-01-30",
+            "tintColor": "#5090b9",
+            "notify": false
         }
     ]
 }
