@@ -7,7 +7,7 @@
     "iconURL": "https://daniellee4.github.io/altstore/appicons/flapquest.png",
     "tintColor": "#06bd36",
     "featuredApps": [
-        "com.dl4194.walappy"
+        "com.dl4194.kimchirun"
     ],
     "apps": [
         {
@@ -75,7 +75,7 @@
                     "buildVersion": "0",
                     "marketingVersion": "1.0",
                     "date": "2025-01-30",
-                    "downloadURL": "https://daniellee4.github.io/altstore/ipas/kimchirun.ipa",
+                    "downloadURL": "https://daniellee4.github.io/altstore/ipas/kimchirun-1.0.ipa",
                     "minOSVersion": "13.0",
                     "localizedDescription": "Initial release.",
                     "size": 41279
